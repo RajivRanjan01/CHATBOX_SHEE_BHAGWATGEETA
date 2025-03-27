@@ -1,0 +1,1 @@
+This is a chatbox made in ROG model using the vedic library https://vanipedia.org/wiki/Discovering_the_Questions_asked_to_Srila_Prabhupada which takes a question from the user and finds its soltuin matching with Shree Prabhupada and Geeta teachings.
